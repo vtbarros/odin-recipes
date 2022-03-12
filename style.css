@@ -1,0 +1,57 @@
+* {
+    background-color: rgb(255, 230, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title,
+.foodtitle {
+    font-weight: bolder;
+    text-align: center;
+    margin: auto;
+    font-stretch: extra-expanded;
+}
+
+.title {
+    font-size: 13.5vw;
+}
+
+.foodtitle {
+    font-size: 10vw;
+}
+
+.bolt {
+    text-align: center;
+    font-weight:lighter;
+    margin: auto;
+    font-size: 5vw;
+}
+
+.div {
+    font-size: 50px;
+    font-weight: lighter;
+    text-align: center;
+    color: whitesmoke;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+.top {
+    text-align: center;
+}
+
+.francesinha,
+.lasagna,
+.vburger {
+    display: block;
+    height: 40vw;
+    width: auto;
+    margin: auto;
+    padding: 0%;
+}
